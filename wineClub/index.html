@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+   <head>
+     <title>QUIZ 6</title>
+     <link rel="stylesheet" type="text/css" href="css/main.css">
+     <link rel="stylesheet" type="text/css" href="css/normalize.css">
+    
+
+   </head>
+   <body>
+  
+   <div id="main">
+
+    <header>
+   <div class="logo">
+     <img src="img/log.gif">
+   </div>
+   <div class="marquee">
+     <marquee direction="down" scrollamount="10">WINE CLUB!!!LADYS NIGHT SPECIAL OFFER;RED CARERNET SAUVIGNON!!</marquee>
+   </div>
+   </header>
+
+   <div class="video">
+   <h4>WINE TESTING FORUM<hr></h4>
+     <p>Join the conversation on the WineBoard. It’s one of the richest sources of tasting notes and wine information on the web. Search for a producer or label, post question or  share tasting notes. find bargains, Find out how long to cellar that wine, check out wine and food pairings and see what others have to say about a wine or winery. Over 125,000 posts from fellow wine enthusiasts.</p>
+     <p>Explore wine in over 150 videos covering all the basics of major wine varietals and some you may not have heard of. Watch our sommelier wine tastings and interesting examples of wine and food pairings, plus winemaker interviews and more.</p>
+     <form>
+       E-mail:<input type="text" placeholder="username" id="username" name="username" >
+       Password:<input type="password" placeholder="password" id="password" name="password"></br>
+
+       </form>
+       
+       <form>
+          <input type="button" onclick="check(this.form)" value="login">
+       </form>
+    
+
+   </div>
+   <div class="paragraph">
+     <iframe width="620" height="300" src="https://www.youtube.com/embed/Q1wTZLEDENo?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+   </div>
+   
+<!-- last div -->
+   <div class="point">
+   
+  <div class="white">
+    <h5>Common Wine Types:<hr></h5>
+   <ul style="list-style-type:circle">
+  <li>Cabernet Sauvignon</li>
+  <li>Syrah</li>
+  <li>Zinfandel</li>
+  <li>Pinot Noir</li>
+  <li>Chardonnay</li>
+  <li>Riesling</li>
+  </ul>  
+  </div>
+  </div>
+   
+<!-- center div -->
+   <div class="point1"> 
+   
+  <div class="white">
+  <h5>Top Ten Best Wine Countries:<hr></h5>
+   <ul style="list-style-type:circle">
+   <li>France</li>
+   <li>Italy</li>
+   <li>United States</li>
+   <li>Germany</li>
+   <li>South Afric</li>
+   <li> Argentina</li>
+   </ul>  
+    
+  </div>
+    </div>
+  
+<!-- first div -->
+  <div class="point2">
+  
+  <div class="white">
+  <h5>Common Wine Types:<hr></h5>
+  <ul style="list-style-type:circle">
+  <li>Cabernet Sauvignon</li>
+  <li>Syrah</li>
+  <li>Zinfandel</li>
+  <li>Pinot Noir</li>
+  <li>Chardonnay</li>
+  <li>Riesling</li>
+  </ul>  
+   </div>
+  </div>
+   
+
+   <div class="map">
+     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26361282.933653925!2d-113.75596045247073!3d36.24119326573565!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54eab584e432360b%3A0x1c3bb99243deb742!2sUnited+States!5e0!3m2!1sen!2ske!4v1495036032939" width="1280" height="330" frameborder="0" style="inset" allowfullscreen></iframe>
+   </div>
+
+   </div>
+   <script language = "javascript">
+  
+
+   function check (form) {
+    var username = document.getElementById("username").value;
+    var password = document.getElementById("password").value;
+
+        if (username == "regymso@gmail.com" && password == "12345")
+        {
+          window.open ( "https://mail.google.com/mail/u/1/#inbox")
+        } 
+        else{
+          alert( "The username and password does not match")
+        }
+}
+</script>
+
+   </body>
+</html>
+

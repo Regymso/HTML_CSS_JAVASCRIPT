@@ -1,0 +1,150 @@
+body{
+	background-color:#bfbfbf;
+	height: 900px;
+ 
+
+}
+#main{
+	background-color: #ededed;
+	
+	width:1280px;
+	margin: 0 auto;
+	height: 840px;
+}
+
+.Mso0{
+	background-color: #a94f4f;
+	width: 1280;
+	height: 45px;
+	padding-left: 150px;
+	padding-top: 20px;
+	color: #fffcff;
+}
+#container{
+	background-color: white;
+	width: 1000px;
+	height: 740px;
+	margin:0 auto;
+	padding: 0 auto;
+}
+.Mso1{
+	background-color: #919191;
+	width:470px;
+	height: 274px;
+	float:left;
+	margin-left: 20px;
+	margin-top: 20px;
+
+
+
+}
+h1{
+	color: #b44c4d;
+	margin: 0px 0 0 0;
+}
+h3{
+	color:#737373;
+	margin: 0px 0 0 0;
+}
+p{
+	padding-top: 5px;
+}
+a{
+	color:#a74e48;
+	text-decoration: none;
+}
+.MsoW1{
+       float: left;
+	background-color: white;
+	width: 470px;
+	height: 274px;
+    float: left;
+    margin-left:20px;
+    margin-top: 20px
+}
+.Mso2{
+	background-color: #919191;
+	width: 305px;
+	height: 200px;
+	float: left;
+	margin-left:20px;
+	margin-top: 20px; 
+	background-image: url("../img/left.jpg");
+
+
+}
+.Mso3{
+	background-color: #919191;
+	width: 305px;
+	height: 200px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+	background-image: url("../img/centre.jpg");
+
+}
+.Mso4{
+	background-color: #919191;
+	width: 305px;
+	height: 200px;
+	float: left;
+	margin-left:20px;
+	margin-top: 20px;
+	background-image: url("../img/right.jpg");
+	
+	
+}
+.MsoW2, .MsoW3, .MsoW4{
+	background-color: white;
+	width: 305px;
+	height: 200px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+
+
+	}
+/*.MsoW3{
+	background-color: white;
+	width: 300px;
+	height: 174px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.MsoW4{
+	background-color: white;
+	width: 300px;
+	height: 174px;
+	float: left;
+	margin-left:20px;
+	margin-top: 20px;*/
+
+}
+strong{
+	color:#bc7a7c;
+}
+ul li{
+	margin-left: -20px;
+
+}
+h2{
+	color:#c7767c;
+
+
+}
+.MsoF{
+	margin-left: 138px;
+	float: left;
+	padding-top: 5px;
+	color: #a7a7a7;
+	
+}
+.MsoF2{
+	float: right;
+	margin-right: 138px;
+	padding-top: 5px;
+	color: #a7a7a7;
+}
+
+

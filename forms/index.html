@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+   <head>
+     <title>FORM</title>
+     <link rel="stylesheet" type="text/css" href="css/main.css">
+     <link rel="stylesheet" type="text/css" href="css/normalize.css">
+
+   </head>
+   <body>
+
+  <div id="main-cont">
+  <div class="FORM">
+
+  <form >
+  <div class="fills">
+  <input type="text" placeholder="Username" id="username" >
+  </div>
+  <div class="fills">
+  <input type="password" placeholder="Password" id="password"  >
+  </div>
+  <div class="BUTTON">
+
+  <input type="button" onclick= "Check(form)" value="LOGIN">
+
+  </div>
+  <div class="word">
+    <p>Not registered?<a href="">Create an account</a></p>
+  </div>
+  </form>
+
+  </div>
+  </div>
+
+  <script language="javascript">
+  
+
+  function Check (form) {
+    
+    var username = document.getElementById("username").value;
+    var password = document.getElementById("password").value;,
+  
+
+    if (username == "regymso@gmail.com" && password == "regymso")
+     {
+      window.open("https://mail.google.com/mail/u/1/#regymso")
+    }
+
+    else
+    {
+      alert("Your Username does not match Password")
+    }
+    // body...
+  }
+
+
+
+
+
+  </script>
+   </body>
+</html>
+

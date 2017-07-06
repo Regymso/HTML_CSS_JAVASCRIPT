@@ -1,0 +1,74 @@
+body{
+	background-color: #000000;
+	color: white;
+}
+#page{
+	width: 	1200px;
+	height:700px;
+	background-color:#800000;
+	margin:0 auto;
+
+}
+.larger{
+	width: 640px;
+	height:680px;
+	background-color: black;
+	float:left;
+	padding-left: 40px;
+	margin: 10px;
+	background-image: url(../image/SaroltaBanBoulderForest.jpg);
+
+	}
+	
+	h3{
+		padding-top: 250px;
+		font-size: 30px;
+	}
+	p{
+		font-size: 20px;
+	}
+	header{
+		text-align: right;
+		font-size: 15px;
+		padding-top: 30px;
+		padding-right: 5px;}
+
+		a{text-decoration: none;
+			color: yellow;
+
+	}
+
+.small{
+	width:480px;
+	height:680px;
+	/*background-color: #200122;
+    background-color: #6f0000;*/
+    background-color:rgba(0,0,0,0.2);
+	float:left;
+	text-align: center;
+	margin: 10px;
+}
+h1{
+	font-size: 150px;
+
+
+}
+h4{
+	padding-top: 40px;
+}
+h6{
+	padding-bottom: 40px;
+}
+button{
+	background-color: yellow;
+	width: 100px;
+	height: 30px;
+	font-style: bold;
+	border-radius: 40px;
+	
+}
+h2{
+	color: #800000;
+	font-size: 40px;
+
+}

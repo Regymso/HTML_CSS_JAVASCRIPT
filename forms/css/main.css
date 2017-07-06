@@ -1,0 +1,46 @@
+body{
+	background-color: red;
+}
+#main-cont{
+	background-color: #75c45b;
+	width:492px; 
+	height: 392px;
+	padding-left: 470px;
+	padding-right: 478px;
+	padding-top: 182px;
+	padding-bottom: 231px;
+	
+
+}
+.FORM form{
+	background-color: #ffffff;
+	width:369px; 
+	height:331px;
+	padding-right: 62px;
+	padding-left: 62px;
+	padding-top: 62px;
+}
+.fills input{
+	width: 349px;
+	height: 63px;
+	margin-bottom: 20px;
+	padding-left: 20px;
+	
+}
+.BUTTON input{
+	width: 372px;
+	height: 63px;
+	background-color: #00b242;
+	color: #c2eeca;
+	border: none;
+
+}
+.word{
+	text-align: center;
+	font-family: sans-serif;
+
+}
+a{
+	text-decoration: none;
+	color:#6acc83;
+}

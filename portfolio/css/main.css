@@ -1,0 +1,135 @@
+body{
+	background-color: #000000;
+}
+
+
+header{
+	width:1330px;
+	height:50px;
+	background-color:#F0FFFF;
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 15px;
+	word-spacing: 50px;
+
+}
+ul li a {
+	text-decoration: none;
+}
+.info{
+	
+	margin: 0 auto;
+	text-align: center;
+
+}
+hr{
+	width: 400px;
+	border-color: red;
+}
+footer{
+	width:1330px;
+	height:100px;
+	background-color:grey;
+	margin: 0 auto;
+}
+#body{
+	width: 1330px;
+	height: 2500px;
+	background-color:#F0FFFF;
+	margin:0 auto;
+}
+
+.end{
+	width:1330px;
+	height:80px;
+	background-color:black;
+	float:right;
+	margin-top: 30px;
+	}
+.class1{
+	width:630px;
+	height: 450px;
+    float: left;
+    background-color: black;
+    margin: 0 auto; 
+       
+}
+.word{
+	width: 100%;
+	height:100%;
+
+}
+.upper{
+	width: 630px;
+	height:450px;
+	background-image: url(../img/screenshot1.gif); 
+	margin: 0 auto;
+
+}
+.upper:hover{
+	opacity: 0.2;
+	filter :alpha(opacity=100);
+}
+.class2{
+	width: 630px;
+	height: 450px;
+	float: left;
+	margin: 15px;
+
+}
+.class3{
+	width: 630px;
+	height: 450px;
+	background-color:black;
+	float: left;
+	margin: 15px;
+
+}
+.class4{
+	width: 630px;
+	height: 450px;
+	background-color:red;
+	float: left;
+	margin: 15px;
+
+}
+.class5{
+	width: 630px;
+	height: 450px;
+	background-image: url(../img/curtain2.gif);
+	float: left;
+	margin: 15px;
+
+}
+.upper5{
+	width: 630px;
+	height: 450px;
+	
+	float: left;
+
+	
+
+}
+
+.class6{
+	width: 630px;
+	height: 450px;
+	float: left;
+	margin: 15px;
+
+}
+.class7{
+	width: 630px;
+	height: 450px;
+	background-color:red;
+	float: left;
+	margin: 15px;
+}
+
+
+.info2{
+	
+	margin: 0 auto;
+	text-align: center;
+
+}

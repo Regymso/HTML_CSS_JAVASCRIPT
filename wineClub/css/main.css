@@ -1,0 +1,118 @@
+body{
+	background-color: #71343c;
+	background-position: fixed;
+}
+header{
+	background-color:#33131e;
+	width:1300;
+	height: 100px;
+
+}
+#main{
+	background-color: #ebd683;
+	width: 1300px;
+	height: 1100px;
+	margin: 0 auto;
+}
+.video{
+	background-color: 	 #ebd683;
+	width: 620px;
+	height: 300px;
+	margin: 15px;
+	float:right;
+}
+	
+.paragraph{
+	background-image: url(../img/image.jpg);
+	width: 620px;
+	height: 300px;
+	margin: 15px;
+	float:right;
+}
+.point{
+	background-image: url(../img/pic1.gif);
+	width: 410px;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          00px;
+	height:200px;
+	margin: 10px;
+	float:right;
+	color:yellow;
+	font-size: 17px;
+}
+.white{
+	background:rgba(255,255,255, 0.4);
+	width:410px;
+	height: 200px;
+	float:right;
+	text-align: left;
+
+}
+.point1{
+	background-image: url(../img/pic2.gif);
+	width: 410px;
+	height:200px;
+	margin: 10px;
+	float:left;
+	color: red;
+	font-size: 17px;
+}
+.point2{
+	background-image: url(../img/pic3.gif);
+	width: 410px;
+	height:200px;
+	margin: 10px;
+	float:right;
+	color: #5a0e18;
+	font-size: 15px;
+}
+ ul li{
+ 	list-style-position: right;
+	
+}
+h5, h4{
+	text-align: center;
+	font-size: 15px;
+}
+
+hr{
+	width: 130px;
+}
+form{
+	border: hidden;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 10px;
+
+}
+button{
+	background-color: yellow;
+	position: center;
+	
+}
+
+.map{
+	background-color: red;
+	width: 1280px;
+	height:330px;
+	margin: 10px;
+	float:right;
+}
+.logo{
+	width: 120px;
+	height: 80px;
+	background-color: #33131e;
+	float: left;
+	margin-left: 25px;
+	
+	
+}
+.marquee{
+	background-color: #33131e;
+	width: 1100px;
+	height:40px;
+	float: right;
+	margin: 15px;
+	color:red;
+	text-align: center;
+	font-size:50px;
+	font-weight: bold;
+}

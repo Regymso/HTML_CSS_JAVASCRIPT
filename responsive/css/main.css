@@ -1,0 +1,52 @@
+body{
+	background: #ffffff;
+}
+.main{
+	max-width: 1000px;
+	height: 1500px;
+	background-color: #EE82EE;
+	margin: 0 auto;
+}
+.one{
+	width: 50%;
+	height: 500px;
+	background-image: url(../img/maya-angelou.gif);
+	float: left;
+	border-radius: 250px;
+
+}
+.two{
+	width: 50%;
+	height: 500px;
+	background-image: url(../img/oprah-winfrey.gif);
+	float: left;
+	border-radius: 250px;
+}
+.three{
+	width: 50%;
+	height: 500px;
+	background-image: url(../img/margaret-Kenyatta.gif);
+	float: left;
+	border-radius: 250px;
+}
+.four{
+	width: 50%;
+	height: 500px;
+	background-image: url(../img/lupita.gif);
+	float: left;
+	border-radius: 250px;
+}
+.five{
+	width: 50%;
+	height: 500px;
+	background-image: url(../img/linda.gif);
+	float: left;
+	border-radius: 250px;
+}
+.six{
+	width: 50%;
+	height: 500px;
+	background-image: url(../img/judith.gif);
+	float: left;
+	border-radius: 250px;
+}
